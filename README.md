@@ -9,6 +9,16 @@
 - 遊戲介紹頁面
 - SQL整合
 
+## 使用工具
+- 後端
+  - [AspNetCore](https://github.com/dotnet/aspnetcore)
+  - [SignalR](https://github.com/SignalR/SignalR)
+  - MSSQL
+- 前端
+  - [JQuery](https://jquery.com/)
+  - [jQuery UI](https://jqueryui.com/)
+  - [SwiperJS](https://swiperjs.com/)
+
 ## 好友通訊界面
 
 基於[SignalR](https://github.com/SignalR/SignalR)好友通訊及線上狀態顯示
