@@ -1,3 +1,4 @@
+![DanGame LOGO](https://github.com/Leo890728/project-images/blob/main/DanGame/logo-hw.png?raw=true)
 # 大專題 DanGame - 訂閱式遊戲平台
 
 ## 負責功能
@@ -12,7 +13,7 @@
 
 ### 截圖
 - 好友線上狀態顯示
-#### ![好友線上狀態顯示截圖](https://github.com/Leo890728/project-images/blob/main/DanGame/%E5%81%B4%E9%82%8A%E6%B0%A3%E6%B3%A1%E5%8F%8A%E7%B7%9A%E4%B8%8A%E7%8B%80%E6%85%8B%E9%A1%AF%E7%A4%BA.gif)
+#### <img src="https://github.com/Leo890728/project-images/blob/main/DanGame/%E5%81%B4%E9%82%8A%E6%B0%A3%E6%B3%A1%E5%8F%8A%E7%B7%9A%E4%B8%8A%E7%8B%80%E6%85%8B%E9%A1%AF%E7%A4%BA.gif" width="286" height="342">
 
 - 好友通訊界面
 #### ![好友通訊界面截圖](https://github.com/Leo890728/project-images/blob/main/DanGame/%E9%80%9A%E8%A8%8A%E4%BB%8B%E9%9D%A2.png)
