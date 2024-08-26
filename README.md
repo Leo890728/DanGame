@@ -33,6 +33,12 @@
 
 ### 截圖
 
+- 遊戲封面
+#### ![遊戲封面](https://github.com/Leo890728/project-images/blob/main/DanGame/%E9%81%8A%E6%88%B2%E4%BB%8B%E7%B4%B9%E9%A0%81%E9%9D%A2-%E9%81%8A%E6%88%B2%E5%B0%81%E9%9D%A2.gif)
+
+- 遊戲截圖及影片
+#### ![遊戲封面](https://github.com/Leo890728/project-images/blob/main/DanGame/%E9%81%8A%E6%88%B2%E4%BB%8B%E7%B4%B9%E9%A0%81%E9%9D%A2-%E9%81%8A%E6%88%B2%E6%88%AA%E5%9C%96%E5%8F%8A%E5%BD%B1%E7%89%87.gif?raw=true)
+
 - 遊戲介紹頁面
 #### ![遊戲介紹頁面](https://github.com/Leo890728/project-images/blob/main/DanGame/%E9%81%8A%E6%88%B2%E4%BB%8B%E7%B4%B9%E9%A0%81%E9%9D%A2.gif)
 
@@ -44,3 +50,7 @@
 
 - 底部資訊欄 - 可下載內容
 #### ![底部資訊欄 - 可下載內容](https://github.com/Leo890728/project-images/blob/main/DanGame/%E9%81%8A%E6%88%B2%E4%BB%8B%E7%B4%B9%E9%A0%81%E9%9D%A2-%E5%8F%AF%E4%B8%8B%E8%BC%89%E5%85%A7%E5%AE%B9.gif)
+
+
+## 聲明
+此專案使用了漫威在 Steam 上的內容。所有相關版權及商標均屬於漫威娛樂。此項目僅用於非商業目的，並不代表漫威娛樂或其任何子公司的官方立場或意見。
